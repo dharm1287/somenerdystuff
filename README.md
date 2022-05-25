@@ -1,8 +1,7 @@
-# DeepForSpeed: Data Wanted
 ## A self-driving car in Need For Speed
 The inspiration comes from how Nvidia built a self-driving car with just a single convolutional
-neural network instead of many fancy algorithms combined. Here my goal is to replicate 
-the amazing results they've gotten but inside a game. But i also tried to create it as a platform/interface 
+neural network instead of many fancy algorithms combined. Here goal is to replicate 
+the amazing results they've gotten but inside the game. But i also tried to create it as a platform/interface 
 in which different architectures can be tested relatively easily, so it can also be used as a benchmark.
 So it's like a fun driving simulator (of course not an accurate one) that you can test your own neural networks 
 at and maybe conduct some experiments.
